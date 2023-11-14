@@ -4,6 +4,10 @@
 ## 功能
 可通过抓包顺利爬取某个hashtag下的所有唯一note_id，并根据note_id爬取详细帖子数据，包括文本、图片、视频。
 
+## 流程
+<img width="416" alt="image" src="https://github.com/wtwyzc/Xiaohongshu-APP-crawler/assets/117346587/9859f598-f4b8-4855-badc-4383d2ca52e4">
+
+
 ## 建议
 - 本代码开发时此平台网页版没有检索功能
 - 截止2023.9网页版没有hashtag入口
